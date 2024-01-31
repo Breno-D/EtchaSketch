@@ -14,3 +14,9 @@
 .coloredBlock{
     background-color: brown;
 }
+
+.disabled{
+    background-color: white;
+    width: 0px;
+    height: 0px;
+}
