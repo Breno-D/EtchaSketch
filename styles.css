@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    width: 900px;
+    height: 900px;
+    background-color: antiquewhite;
+    flex-wrap: wrap;
+}
+
+.block{
+    width: 9px;
+    height: 9px;
+}
+
+.coloredBlock{
+    background-color: brown;
+}
